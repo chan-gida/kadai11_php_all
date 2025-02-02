@@ -8,7 +8,7 @@
 
 ## ③DEMO
 
-https://silverbat3.sakura.ne.jp/php04/
+https://silverbat3.sakura.ne.jp/php05/
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
